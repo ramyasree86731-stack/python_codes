@@ -8,3 +8,5 @@ loops
 functions
 oops
 modules
+gen ai
+open ai
